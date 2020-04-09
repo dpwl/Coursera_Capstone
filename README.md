@@ -5,4 +5,4 @@
 
 ## 1. Overview
 - This repository is mainly used for the final capstone project of IBM Data Science Professional Certificate Program.
-- This overview will be more ellaborated as the project moves forward.# Coursera_Capstone
+- This overview will be more ellaborated as the project moves forward.
